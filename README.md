@@ -66,7 +66,7 @@ streamlit run dashboard.py
 
 ## 📊 Dashboard Preview
 
-*(Add a screenshot of your dashboard here after uploading to GitHub)*
+![Churn Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
 
